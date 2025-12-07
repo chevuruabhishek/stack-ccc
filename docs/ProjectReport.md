@@ -1,11 +1,5 @@
 # PROJECT REPORT: Expression Converter and Evaluator Using Stack
 
-**Submitted by:** [User Name]  
-**Date:** [Current Date]  
-**Subject:** Data Structures & Algorithms
-
----
-
 ## 1. Abstract
 This project implements a C++ application that performs operations on algebraic expressions using the Stack data structure. The primary features include converting Infix expressions to Postfix and Prefix notations and evaluating Postfix expressions. The program handles operator precedence, associativity, and multi-digit numbers, providing a user-friendly console interface.
 
