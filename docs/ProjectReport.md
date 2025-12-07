@@ -54,7 +54,9 @@ The project is built using C++ and the Standard Template Library (STL).
 ## 5. Flowcharts
 
 ### 5.1 Infix to Postfix
-```mermaid
+```
+
+
 flowchart TD
     A[Start] --> B[Initialize Stack and Output String]
     B --> C{End of Expression?}
@@ -71,6 +73,7 @@ flowchart TD
     J --> C
     H --> K[End]
 ```
+
 
 ### 5.2 Postfix Evaluation
 ```mermaid
